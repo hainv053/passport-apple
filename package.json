@@ -1,5 +1,5 @@
 {
-  "name": "passport-appleid",
+  "name": "passport-appleid-v2",
   "version": "1.0.5",
   "description": "Apple authentication strategy for Passport.",
   "main": "./lib",
